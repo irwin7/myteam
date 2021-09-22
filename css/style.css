@@ -104,6 +104,11 @@ height: 48px;
   color: #002529;
   background-color: #fff;
 }
+.site-header__btn:active{
+  color: #fff;
+  background-color: transparent;
+  opacity: 0.6;
+}
 .site-header{
   display: flex;
   justify-content: space-between;
@@ -350,7 +355,8 @@ footer {
 
 .subscribe__link:hover {
   border-color: transparent;
-  background-color: #fff;
+  background-color: #012F34;
+  color: #fff;
 }
 
 .subscribe__link:active {
@@ -394,7 +400,13 @@ footer {
   margin-left: 125px;
 }
 .footer__texts__item {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 25px;
+  color: #fff;
   margin-bottom: 10px;
+  opacity: 0.6;
 }
 .footer__texts__link {
   font-style: normal;
