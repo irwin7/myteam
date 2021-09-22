@@ -17,7 +17,9 @@ body {
   background-color: #fff;
   font-family: 'Livvic', sans-serif;
 }
-
+#site-header{
+  background-color: #014E56;
+}
 img {
   max-width: 100%;
   height: auto;
