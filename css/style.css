@@ -17,7 +17,9 @@ body {
   background-color: #004047;
   font-family: 'Livvic', sans-serif;
 }
-
+#site-header{
+  background-color: #014E56;
+}
 img {
   max-width: 100%;
   height: auto;
@@ -118,4 +120,8 @@ p{
   line-height: 25px;
   color: #fff;
   opacity: 0.8;
+}
+
+footer {
+  background-color: #002529;
 }
