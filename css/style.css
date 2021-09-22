@@ -325,7 +325,8 @@ footer {
 
 .subscribe__bg {
   position: absolute;
-  top: 29%;
+  bottom: 0;
+  left: 0;
   width: 200px;
   height: 140px;
   background-position: left bottom;
@@ -412,6 +413,7 @@ footer {
 .footer__socialmedia__list {
   display: flex;
   padding-bottom: 51px;
+  align-items: center;
 }
 .footer__socialmedia__item {
   margin-right: 19px;
